@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WebViewDemo</string>
+    
+    <string-array name="spin">
+        <item>A</item>
+        <item>c</item>
+        <item>d</item>
+    </string-array>
+
+</resources>
